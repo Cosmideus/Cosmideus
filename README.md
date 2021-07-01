@@ -23,9 +23,9 @@ src="https://img.shields.io/badge/linkedin-Anuj-%230177B5?style=flat&logo=linked
 
 <h2 align="center">About</h2>
 <h4 align="center">
-I like to code. I am currently an ML enthusiast, working on my
+I am a machine learning enthusiast, working on my
 skillset and knowledge to put it to better use.<br />In a nutshell I
-code, draw, trade and write. Let's compound 1% everyday.
+code, draw, trade and write(all using machine learning in some way). Let's compound 1% everyday.
 </h4>
 <img
 alt="GitHub followers"
